@@ -1,0 +1,51 @@
+ .error{
+color:  red;
+font-size: 20px;
+position: relative;
+    left:5%;
+    top: 20px;
+}
+.success{
+    color: green;
+    font-size: 20px;
+    position: relative;
+    left: 25%;
+    top: 20px;
+}
+.form{
+    margin: 2% auto 10% auto;
+    background-color: white;
+    height: 50vh;
+    width: 23vw;
+    
+}
+.img{
+    height: 20vh;
+    width: 10vw;
+    margin: 3% 30% auto 45%;
+    border-radius: 50%;
+}
+.email-label{
+    font-size: 15px;
+    font-weight:400;
+    margin-left: 5%;
+    margin-top: 5%;
+    color: rgb(94, 93, 93);
+}
+.input{
+    height: 6vh;
+    width: 20vw;
+    border-radius: 1%;
+    margin-top: 3%;
+    position: relative;
+    left:15px;
+    
+}
+.button{
+    height: 7vh;
+    width: 8vw;
+    margin-left: 60%;
+    margin-top: 7%;
+    border-radius: 1%;
+    
+}
